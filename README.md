@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Dynamic Landing Page]("images/screenshot.png")
+![Dynamic Landing Page](https://github.com/drobb2020/dynamic-landing-page/blob/main/images/screenshot.png)
 
 This is a single webpage using JavaScript to generate the current time and change the background image based on the time of day. The page can also store your name and focus for the day.
 
