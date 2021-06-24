@@ -154,7 +154,7 @@ Project Link: [https://github.com/drobb2020/dynamic-landing-page](https://github
 [stars-shield]: https://img.shields.io/github/stars/drobb2020/dynamic-landing-page.svg?style=for-the-badge
 [stars-url]: https://github.com/drobb2020/dynamic-landing-page/stargazers
 [issues-shield]: https://img.shields.io/github/issues/drobb2020/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/drobb2020/repo/issues
+[issues-url]: https://github.com/drobb2020/dynamic-landing-page/issues
 [license-shield]: https://img.shields.io/github/license/drobb2020/dynamic-landing-page.svg?style=for-the-badge
 [license-url]: https://github.com/drobb2020/dynamic-landing-page/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
