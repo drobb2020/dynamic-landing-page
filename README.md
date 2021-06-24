@@ -7,10 +7,8 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** drobb2020, repo_name, twitter_handle, email, project_title, project_description
+*** drobb2020, dynamic-landing-page, @DavidRobb2, drobb2011@gmail.com, Dynamic Landing Page, A Momentum-like clone landing page showing a greeting and your focus for the day.
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -27,32 +25,28 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/drobb2020/repo_name">
+  <a href="https://github.com/drobb2020/dynamic-landing-page">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Dynamic Landing Page</h3>
 
   <p align="center">
-    project_description
+    A Momentum-like clone landing page showing a greeting and your focus for the day.
     <br />
-    <a href="https://github.com/drobb2020/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/drobb2020/dynamic-landing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/drobb2020/repo_name">View Demo</a>
+    <a href="https://github.com/drobb2020/dynamic-landing-page">View Demo</a>
     ·
-    <a href="https://github.com/drobb2020/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/drobb2020/dynamic-landing-page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/drobb2020/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/drobb2020/dynamic-landing-page/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -80,25 +74,18 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Dynamic Landing Page]("./images/screenshot.png")
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`drobb2020`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+This is a single webpage using JavaScript to generate the current time and change the background image based on the time of day. The page can also store your name and focus for the day.
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+* HTML5
+* CSS3
+* JavaScript
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -107,40 +94,27 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+There are no specific requirements apart from having javascript enabled in the browser.
 
 ### Installation
 
 1. Clone the repo
+
    ```sh
-   git clone https://github.com/drobb2020/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
+   git clone https://github.com/drobb2020/dynamic-landing-page.git
    ```
 
-
+2. Set your browsers homepage to the location where you cloned the repo.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+This is a single webpage designed to be your initial landing page when you launch your browser similar to the Momentum extension in Chrome. You can add your name, and a focus to the page at startup. These values will persist since they are saved to localStorage.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/drobb2020/repo_name/issues) for a list of proposed features (and known issues).
-
-
+See the [open issues](https://github.com/drobb2020/dynamic-landing-page/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -153,34 +127,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+[@DavidRobb2](https://twitter.com/@DavidRobb2) - drobb2011@gmail.com
 
-Project Link: [https://github.com/drobb2020/repo_name](https://github.com/drobb2020/repo_name)
-
-
+Project Link: [https://github.com/drobb2020/dynamic-landing-page](https://github.com/drobb2020/dynamic-landing-page)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
-
-
+* [Traversy Media YouTube Video](https://www.youtube.com/watch?v=fSTQzlprGLI)
+* [Brad Traversy's Channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
