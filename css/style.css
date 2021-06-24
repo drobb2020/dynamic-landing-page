@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "baron_neueregular";
+  src: url("../fonts/baronneue-regular-webfont.woff2") format("woff2"),
+    url("../fonts/baronneue-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "baron_neueregular", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  color: #000;
+}
+
+#time {
+  font-size: 8rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-bottom: 3rem;
+}
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.75;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 700px) {
+  #time {
+    font-size: 6rem;
+  }
+}
