@@ -147,15 +147,15 @@ Project Link: [https://github.com/drobb2020/dynamic-landing-page](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/drobb2020/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/drobb2020/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/drobb2020/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/drobb2020/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/drobb2020/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/drobb2020/repo/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/drobb2020/dynamic-landing-page.svg?style=for-the-badge
+[contributors-url]: https://github.com/drobb2020/dynamic-landing-page/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/drobb2020/dynamic-landing-page.svg?style=for-the-badge
+[forks-url]: https://github.com/drobb2020/dynamic-landing-page/network/members
+[stars-shield]: https://img.shields.io/github/stars/drobb2020/dynamic-landing-page.svg?style=for-the-badge
+[stars-url]: https://github.com/drobb2020/dynamic-landing-page/stargazers
 [issues-shield]: https://img.shields.io/github/issues/drobb2020/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/drobb2020/repo/issues
-[license-shield]: https://img.shields.io/github/license/drobb2020/repo.svg?style=for-the-badge
-[license-url]: https://github.com/drobb2020/repo/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/drobb2020/dynamic-landing-page.svg?style=for-the-badge
+[license-url]: https://github.com/drobb2020/dynamic-landing-page/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/drobb2020
+[linkedin-url]: https://www.linkedin.com/in/david-robb-42436a20/
